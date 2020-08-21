@@ -15,7 +15,6 @@ title = "Tasty Licks"
    url  = "/food"
    weight = 2
 
-<!-- config.toml -->
 [[menu.main]]
    name = "Drinks"
    url  = "/drinks"
