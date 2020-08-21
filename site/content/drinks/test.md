@@ -1,9 +1,9 @@
 ---
-title: Test
+title: test
 categories:
   - drinks
-description: water
+description: t
 type: beer
-price: '33'
+price: '4'
 ---
 
