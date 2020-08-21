@@ -18,6 +18,7 @@ collections:
     label: "Drink Item" # Used in the UI, ie.: "New Post"
     folder: "site/content/drinks" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    delete: true
     fields: # The fields each document in this collection have
       - {label: "Name of Drink", name: "title", widget: "string"}
       - {label: "Drink Marker", name: "categories", widget: "hidden", default: ["drinks"]}
